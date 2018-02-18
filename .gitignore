@@ -1,0 +1,9 @@
+**/names
+*.exe
+
+.vscode/.browse.*
+nimsuggest.log
+
+**/nimcache/**
+
+.DS_Store
